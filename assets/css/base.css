@@ -1,0 +1,22 @@
+:root {
+    --text-color: #333;
+    --black-color: #000;
+    --pink-color: #f76570;
+    --green-color: #1bbc9b;
+    --lightseagreen-color: #1e91a6;
+    --white-color: #fff;
+    --yellow-linear: linear-gradient(90deg,#ffd205, #ff9b05);
+    --red-linear: linear-gradient(90deg, #f76570, #f78d65);
+    --violet-linear: linear-gradient(90deg, #ba71da, #da717b);
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}

@@ -1,0 +1,80 @@
+@media screen and (max-width: 1024px) {
+    .header__nav {
+        display: none;
+    }
+
+    .banner__content {
+        margin-top: 200px;
+    }
+
+    .banner__search--select {
+        width: 600px;
+    }
+    
+    .banner__box--item {
+        width: 100%;
+        margin-top: 24px;
+    }
+
+    .address-img {
+        width: 100%;
+    }
+
+    .address-sub {  
+        width: 97.8%;
+    }
+
+    .holiday-heading, .holiday-btn {
+        justify-content: center;
+    }
+
+    .holiday-btn {
+        margin-top: 46px;
+        margin-right: 56px;
+    }
+
+    .beaches_image {
+        margin-top: 16px;
+    }
+
+    .beaches_image-block-img {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 813px) {
+    .banner__title {
+        margin: -26px 135px 50px;
+    }
+
+    .banner__slogan {
+        word-wrap: break-word;
+        margin: 0 110px 64px;
+        line-height: 2.5rem;
+    }
+    
+    .banner__search {
+        margin-bottom: 10px;
+    }
+
+    .banner__search--select {
+        width: 100%;
+    }
+
+    .address-sub {
+        display: none;
+    }
+
+    .col {
+        padding-left: 71px;
+        padding-right: 71px;
+    }
+
+    .beaches_decription h2 {
+        line-height: 3.5rem;
+    }
+    
+    .beaches_image-timebox {
+        display: none;
+    }
+}
